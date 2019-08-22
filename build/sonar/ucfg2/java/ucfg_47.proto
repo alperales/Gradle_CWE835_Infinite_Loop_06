@@ -1,0 +1,23 @@
+
+.testcasesupport.IO#staticReturnsTrueOrFalse()Z†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javab b(2"1*Œ
+1†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javad d(&¶³
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javad d($
+%0java.util.Random"java.util.RandomÈ
+Å
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javad d(&
+%1"java.util.Random#<init>()V*
+
+%0java.util.Randomåâ
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javad d(5
+%2boolean"java.util.Random#nextBoolean()Z*
+
+%0java.util.Random2nextBoolean()"‘
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javad d(6
+""B"
+testcasesupport.IO

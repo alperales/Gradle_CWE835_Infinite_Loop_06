@@ -1,0 +1,66 @@
+
+.testcasesupport.IO#toHex([B)Ljava/lang/String;†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javai i("7*ä
+3†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javau u(õ
+ò
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javau u(J
+%3java.lang.String"-java.lang.Long#toString(JI)Ljava/lang/String;*"
+java.lang.Long*
+""*2ÒÏ
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javau u(K
+%4java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*%
+#
+	strBufferjava.lang.StringBuffer*
+
+%3java.lang.String2append(Ljava/lang/String;)*	
+3
+4
+1*Ó
+4†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javar r(¿¼
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javar r(%
+%2java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;*%
+#
+	strBufferjava.lang.StringBuffer*
+02append(Ljava/lang/String;)*
+3*–
+7†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javak2 k(<Â¿
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javak% k(1
+%0java.lang.StringBuffer"java.lang.StringBufferÝ
+Ú
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javak! k(H
+%1"!java.lang.StringBuffer#<init>(I)V*
+
+%0java.lang.StringBuffer*
+""×
+Ô
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javak k(I#
+	strBufferjava.lang.StringBuffer"__id*
+
+%0java.lang.StringBuffer*	
+3
+4
+1*Á
+1†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javax x(Œ‰
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javax x(#
+%5java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*%
+#
+	strBufferjava.lang.StringBuffer2
+toString()"£
+†
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javax x($
+
+%5java.lang.String:
+
+byteBuffer$ArrayB"
+testcasesupport.IO

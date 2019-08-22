@@ -1,0 +1,36 @@
+
+9testcasesupport.IO#getDBConnection()Ljava/sql/Connection;Ü
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javaD D(,"1*€	
+1Ü
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javaF F(≤
+Ø
+Ü
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javaF+ F(0
+%0java.lang.String"__id*
+""≤
+Ø
+Ü
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javaF2 F(<
+%1java.lang.String"__id*
+""≤
+Ø
+Ü
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javaF> F(H
+%2java.lang.String"__id*
+""Ñ
+Å
+Ü
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javaF F(I
+%3java.sql.Connection"qjava.sql.DriverManager#getConnection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;*"
+java.sql.DriverManager*
+
+%0java.lang.String*
+
+%1java.lang.String*
+
+%2java.lang.String"¶
+Ü
+|C:\Users\Alejandro\Workplace\PROYECTOS USADOS PARA EL TFG\SonarCloud\Gradle_CWE835_Infinite_Loop\src\testcasesupport\IO.javaF F(J
+
+%3java.sql.ConnectionB"
+testcasesupport.IO

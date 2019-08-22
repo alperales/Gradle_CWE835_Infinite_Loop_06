@@ -1,0 +1,7 @@
+organization=alperales-github
+projectKey=Gradle_CWE835_Infinite_Loop
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.381
+dashboardUrl=https://sonarcloud.io/dashboard?id=Gradle_CWE835_Infinite_Loop
+ceTaskId=AWy2Hkj_faJshkJQyMIM
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWy2Hkj_faJshkJQyMIM
